@@ -1,0 +1,4 @@
+# .gitattributes
+
+# Set the default behavior to normalize line endings
+* text=auto
